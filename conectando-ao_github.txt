@@ -1,0 +1,1 @@
+para conctar o git ao github e presciso do nome do usuario ea senha do github ou mais atualmente a chave ssh
