@@ -1,0 +1,2 @@
+OQUE SÃO BRENCH ?
+- São caminhos que cada desenvolvedor usa para desenvolver uma parte do projeto.
