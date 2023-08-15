@@ -1,0 +1,1 @@
+o txt e um arquivo de texto e para criar basta dar um nome e colocar a extensão .txt 
